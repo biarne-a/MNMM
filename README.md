@@ -1,0 +1,2 @@
+# MNMM
+Multinomial Mixture Model
